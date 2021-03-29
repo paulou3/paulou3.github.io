@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+body{
+  margin: 30px;
+  background-color : #fbf2e6
+}
+
+h1 {
+  background-color: #fbf2e6;
+  text-shadow: 2px 2px 2px #cdfffc;
+  font-family: 'Indie Flower',
+    cursive;
+  text-align: center; 
+  font-weight: light;
+  padding: 1px;
+  font-size: 40px;  
+  border-radius : 1px
+    color: #ff577f;
+  text-shadow: 3px 3px 3px #cdfffc;
+}
+
+p{
+  background-color: #fbf2e6;
+  font-size: 15px; 
+  border-radius : 15px;
+ padding: 1px;
+}
+
+h2, h3, h4, h5{
+  font-family: 'Indie Flower', cursive;
+  display: flex; 
+  color: #ff577f;
+  text-shadow: 3px 3px 3px #cdfffc;
+  font-weight: light;
+  padding: 2px;
+    text-align:center;
+  justify-content:center;
+  
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: grey;
+  font-family: 'Indie Flower', cursive;
+  height:50vh;
+  background-image: url('https://image.freepik.com/vecteurs-libre/fond-ecran-concept-fruits-legumes_23-2148503351.jpg');
+  Background-size: cover;
+   text-shadow: 2px 2px 2px #cdfffc;
+  }
+  
+ .box{
+  display: flex;
+  padding: 15px;
+  border: 3px solid;
+  border-radius: 7px;
+  ext-decoration: none;
+  
+}
+
+.title{
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+ 
+}
+.text{
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  }
+
+.border-white{
+  border: 2px solid white;
+}
+
+.container {
+  color: #ff577f;
+  text-shadow: 2px 2px 2px #cdfffc;
+  align-items:center;
+  justify-content:center;
+  text-align: center;
+  font-weight: light;
+  padding: 0px
+}
+
+div{
+  margin: 10px;
+  padding: 10px;
+ } 
+
+.rounded{
+  border-radius : 50px
+     }
