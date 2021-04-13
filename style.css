@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Shade&family=Coiny&display=swap');
+body{
+  background-color: #046582;
+}
+h1{ 
+  font-family: "bangers";
+  font-size: 80px 
+}
+p{  
+  font-family: "coiny"; 
+  text-align: left;
+}
+h2{
+  font-family: "Bungee Shade";
+  font-size : 30px;
+}
+.texte{
+  font-family:"coiny";
+}
+.category{
+  justify-content: space-between;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
